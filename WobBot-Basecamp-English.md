@@ -53,6 +53,7 @@ Continue working on your Rush project
 
 
 **2. TODAY’S AGENDA**
+
 9: 42h | Kick-off: Welcome to 42 Basecamp
 
 
@@ -62,6 +63,7 @@ Continue working on your Rush project
 12: 30h | Start working on your first project 
 
 **3. TRIBE CHECK-INS** 
+
 Woo! This is your tribe’s first check-in. Follow the guidelines below to get started on the right foot!
 
 
