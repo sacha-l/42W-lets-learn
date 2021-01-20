@@ -182,7 +182,7 @@ WobBot News # 3 coming with hot news, straight from the oven!
 **1. TODAY’S AGENDA**
 10: 00h | Tribe check-in - Discord 
 
-11: 00h | Vibes Survey - Discord 
+11: 00h | Tribe Vibe Assessment - Discord 
 
 17: 00h | Community meeting + Empathy workshop | 
 Zoom -> https://events.42sp.org.br/event/6b7c724db57e0f67
