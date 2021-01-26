@@ -1,0 +1,4 @@
+Hi! I am Nasrul! I wish you a wonderful evening
+files: Nasrul_gitversion.png
+       Nasrul.txt
+This is a folder created for the "git basic workshop" by 42 wolfsburg school. 
