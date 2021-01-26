@@ -1,0 +1,3 @@
+Hi, my Name is Aldis.
+my favorite colour: Yellow,
+I'm enjoying learning Git...
