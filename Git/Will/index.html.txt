@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link href="./Ressources/CSS/blackcoast.css" type="text/css" rel="stylesheet">
+  <link href="//db.onlinewebfonts.com/c/f7d1b2995a6dff7abcda304d226aa67d?family=HelveticaW01-Bold" rel="stylesheet" type="text/css"/> 
+  <link href="//db.onlinewebfonts.com/c/164a60c2e090248befbcf32fdd5af386?family=LuloCleanOne-Bold" rel="stylesheet" type="text/css"/> ">
+  <link href="//db.onlinewebfonts.com/c/5a4cd90b04b94bfd8c4e37368228a4dd?family=Helvetica+Narrow" rel="stylesheet" type="text/css"/>
+  <link href="//db.onlinewebfonts.com/c/c5bd605b45237a12c99133fa9d7cae49?family=HelveticaW01-Roman" rel="stylesheet" type="text/css"/> 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ABOUT | blackcoast </title>
+</head>
+<body class="about">
+    <div class="header">
+      <div class="topnav">
+        <a href="index.html">HOME</a>
+        <a class="active" href="#about">ABOUT</a>
+        <a href="music.html">MUSIC</a>
+        <a href="design.html">DESIGN</a>
+        <a href="contact.html">CONTACT</a>
+      </div> 
+    </div>
+    <div class="bio">
+        <p id="about-bio-B">B</p>
+        <p id="about-bio-I">I</p>
+        <p id="about-bio-O">O</p>
+    </div>    
+    <div class="biotext">
+        <div>
+        <p>William Black aka blackcoast was born in Ecuador.  
+        <br>
+        <br> Ever heard of it? It's one of 17 megadiverse countries in the world, which means, it has lots of animals and plants. 
+        It also was the first country in 2008 that recognized the rights of nature. 
+        Rather than treating it like someone's property, nature has the constitutional 
+        right to exist, persist, maintain and regenerate it's vital cycles. Nice, huh?  
+        <br>
+        <br>
+        He graduated with a bachelor's degree from the Goethe Universität 
+        in Frankfurt am Main in Music Studies (Musikwissenschaft) and Art 
+        Education (Kunstpädagogik) as a minor.  <br>
+        <br>
+        Since then, he has worked on various projects in a wide range of fields, which have 
+        taken him to Almaty, 
+        Doha, Lima, Venice and Copenhagen, among other places.<br>
+        <br> 
+        In addition to his engagements as a musician and educator, he works in Berlin as a freelance consultant in the area of P2P fundraising, language tech and web development.<br>
+        <br>
+        On these days, he is busy deepening his HTML, CSS, JavaScript and UX/UI knowledge for upcoming projects.
+     </div>
+    </div> 
+     
+    
+    <footer class="footer">
+        <p>© 2021 by BlackCoast</p>
+       
+      </footer> 
+</body>
+</html>
